@@ -1,0 +1,22 @@
+[
+    {
+        "description": "Paigomahn reminising his good old times.", 
+        "external_url": "https://kba.ai", 
+        "image": "https://gold-traditional-hyena-782.mypinata.cloud/ipfs/QmZVkcanXasJnYnz6mjHiPHfoXLRmi843mAouBoV5bKrN4", 
+        "name": "Paigomahn",
+        "attributes": [ 
+            {
+                "trait_type": "Base", 
+                "value": "Starfish"
+              }, 
+              {
+                "trait_type": "Eyes", 
+                "value": "Big"
+              }, 
+              {
+                "trait_type": "Mouth", 
+                "value": "Surprised"
+              }
+         ]
+      }
+]
